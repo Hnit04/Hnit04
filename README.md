@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Xin%20chào,%20mình%20là%20Trần%20Công%20Tính!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Lập%20trình%20viên%20Java%20Backend%20|%20Xây%20dựng%20hệ%20thống%20mở%20rộng&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Tran%20Cong%20Tinh!&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Building%20Scalable%20Systems&descAlignY=51&descAlign=62" />
 </div>
 
 <h3 align="center">
@@ -16,17 +16,17 @@
 
 <br>
 
-### 🚀 Về bản thân
+### 🚀 About Me
 
-- 🎓 Sinh viên năm cuối chuyên ngành Công nghệ Phần mềm tại Trường Đại học Công nghiệp TP.HCM (IUH).
-- 💻 Định hướng trở thành **Lập trình viên Java Backend** với khả năng mở rộng lên Full-stack.
-- 🚀 Đam mê xây dựng các sản phẩm thực tế sử dụng **Spring Boot, RESTful APIs, Microservices** và **Docker**.
-- 🧠 Đặc biệt yêu thích việc tìm hiểu sâu về System Architecture, API Design và triển khai hệ thống lên Cloud.
-- 📚 Luôn nỗ lực trau dồi kỹ năng mỗi ngày thông qua các dự án cá nhân, đồ án học thuật và môi trường thực tập thực tế.
+- 🎓 Final-year Software Engineering student at Industrial University of Ho Chi Minh City (IUH).
+- 💻 Oriented toward **Java Backend Development** with scalable Full-stack capabilities.
+- 🚀 Passionate about building real-world products using **Spring Boot, RESTful APIs, Microservices**, and **Docker**.
+- 🧠 Deeply interested in System Architecture, API Design, and Cloud deployment.
+- 📚 Continuously improving skills through academic projects, personal projects, and practical internship opportunities.
 
 <br>
 
-### 🛠 Công nghệ sử dụng
+### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -48,40 +48,40 @@
 
 <br>
 
-### 💻 Dự án nổi bật
+### 💻 Featured Projects
 
-#### 🥇 [Nền tảng SmartRental](https://github.com/Hnit04/SmartRental)
-**Nền tảng quản lý cho thuê tích hợp Blockchain.**
+#### 🥇 [SmartRental Platform](https://github.com/Hnit04/SmartRental)
+**Blockchain-based rental management platform.**
 - **Tech Stack:** Spring Boot, Smart Contracts, JWT, AWS, Docker.
-- **Điểm nổi bật:** Tích hợp blockchain để theo dõi giao dịch và hợp đồng thông minh một cách an toàn, minh bạch, không thể sửa đổi. Triển khai hệ thống backend trên hạ tầng AWS.
+- **Highlights:** Integrated blockchain for secure, immutable transaction tracking and smart contract agreements. Deployed backend services on AWS infrastructure.
 
-#### 🥈 [Thương mại điện tử đồ gia dụng](https://github.com/Hnit04/E-Commerce)
-**Hệ thống thương mại điện tử theo kiến trúc Microservices.**
+#### 🥈 [Household Appliance E-Commerce](https://github.com/Hnit04/E-Commerce)
+**Microservices-based e-commerce system.**
 - **Tech Stack:** Spring Boot, Microservices, API Gateway, Docker Compose, MySQL.
-- **Điểm nổi bật:** Kiến trúc phân tự động bao gồm 7 service độc lập: Product, User, Cart, Order, Payment, Promotion và Notification. Đóng gói toàn bộ hệ thống bằng Docker Compose giúp triển khai dễ dàng.
+- **Highlights:** Distributed architecture consisting of 7 independent services: Product, User, Cart, Order, Payment, Promotion, and Notification. Containerized with Docker Compose for seamless deployment.
 
-#### 🥉 [Ứng dụng chat Zala](https://github.com/Hnit04/Zala-Chat)
-**Ứng dụng nhắn tin theo thời gian thực.**
+#### 🥉 [Zala Chat App](https://github.com/Hnit04/Zala-Chat)
+**Real-time messaging application.**
 - **Tech Stack:** Spring Boot, WebSocket, React, MongoDB.
-- **Điểm nổi bật:** Hỗ trợ nhắn tin tức thời, thông báo theo thời gian thực và quản lý trò chuyện với độ trễ thấp, xử lý tốt nhiều kết nối đồng thời.
+- **Highlights:** Supported instant communication, real-time notifications, and chat management with low-latency concurrent connections.
 
-#### 🏅 [Nền tảng ExamChoice](https://github.com/Hnit04/ExamChoice)
-**Nền tảng thi trắc nghiệm trực tuyến.**
+#### 🏅 [ExamChoice](https://github.com/Hnit04/ExamChoice)
+**Online examination platform.**
 - **Tech Stack:** Spring Boot, React, MySQL, JWT.
-- **Điểm nổi bật:** Hỗ trợ giáo viên tạo đề thi, sinh viên tham gia thi một cách bảo mật và hệ thống tự động quản lý kết quả điểm số.
+- **Highlights:** Supported test creation, secure participation, and automated result management.
 
 <br>
 
-### 🎯 Mục tiêu hiện tại
+### 🎯 Current Focus
 
-- 🏗 Xây dựng hệ thống Microservices với Spring Boot
-- ☁️ Nghiên cứu các dịch vụ Cloud của AWS
-- ⚙️ Tìm hiểu sâu về System Design
-- 🐳 Nâng cao kỹ năng Docker & DevOps
+- 🏗 Building Microservices with Spring Boot
+- ☁️ Learning AWS Cloud Services
+- ⚙️ Exploring System Design
+- 🐳 Improving Docker & DevOps Skills
 
 <br>
 
-### 📈 Thống kê GitHub
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hnit04&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" width="48%" />
@@ -90,14 +90,6 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnit04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-### 🧊 Biểu đồ đóng góp 3D
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
 </div>
 
 <div align="center">
