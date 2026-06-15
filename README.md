@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Tran Cong Tinh
 
-<!--
-**Hnit04/Hnit04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year IT Student
 
-Here are some ideas to get you started:
+💻 Java Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in Spring Boot, MongoDB, Docker, AWS and Blockchain
+
+## Tech Stack
+
+Java • Spring Boot • MongoDB • MySQL • ReactJS • Docker • AWS
+
+## Featured Projects
+
+### SmartRental
+Blockchain-based rental management system.
+
+### E-commerce System
+Microservices e-commerce platform.
+
+### ExamChoice
+Online examination platform.
+
+## Contact
+
+Email: trancongtinh20042004@gmail.com
+LinkedIn: https://www.linkedin.com/in/tinh-tran-484444408?utm_source=share_via&utm_content=profile&utm_medium=member_android
