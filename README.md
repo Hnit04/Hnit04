@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=250&section=header&text=Xin%20chào,%20mình%20là%20Trần%20Công%20Tính!&fontSize=40&animation=twinkling&fontAlignY=38&desc=Lập%20trình%20viên%20Java%20Backend%20|%20Xây%20dựng%20hệ%20thống%20mở%20rộng&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Xin%20chào,%20mình%20là%20Trần%20Công%20Tính!&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Lập%20trình%20viên%20Java%20Backend%20|%20Xây%20dựng%20hệ%20thống%20mở%20rộng&descAlignY=51&descAlign=62" />
 </div>
 
 <h3 align="center">
-  <a href="https://readme-typing-svg.demolab.com/?lines=Lập+trình+viên+Java+Backend;Đam+mê+Microservices;Tích+hợp+Blockchain;Ứng+dụng+Cloud-Native&font=Hack&center=true&width=550&height=50&color=ED8B00&vCenter=true&size=22">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Lập+trình+viên+Java+Backend;Đam+mê+Microservices;Tích+hợp+Blockchain;Ứng+dụng+Cloud-Native&font=Hack&center=true&width=550&height=50&color=ED8B00&vCenter=true&size=22" alt="Typing SVG">
+  <a href="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Microservices+Enthusiast;System+Architecture;Cloud+Deployment&font=Fira+Code&center=true&width=550&height=50&color=ED8B00&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Java+Backend+Developer;Microservices+Enthusiast;System+Architecture;Cloud+Deployment&font=Fira+Code&center=true&width=550&height=50&color=ED8B00&vCenter=true&size=22" alt="Typing SVG">
   </a>
 </h3>
 
@@ -18,8 +18,11 @@
 
 ### 🚀 Về bản thân
 
-- 💻 **Lập trình viên Java Backend** tập trung vào việc xây dựng các hệ thống có khả năng mở rộng cao sử dụng Spring Boot và kiến trúc Microservices.
-- 🏗 Có kinh nghiệm thiết kế RESTful APIs, làm việc với cơ sở dữ liệu quan hệ và NoSQL, đóng gói ứng dụng bằng Docker và triển khai các giải pháp lên Cloud.
+- 🎓 Sinh viên năm cuối chuyên ngành Công nghệ Phần mềm tại Trường Đại học Công nghiệp TP.HCM (IUH).
+- 💻 Định hướng trở thành **Lập trình viên Java Backend** với khả năng mở rộng lên Full-stack.
+- 🚀 Đam mê xây dựng các sản phẩm thực tế sử dụng **Spring Boot, RESTful APIs, Microservices** và **Docker**.
+- 🧠 Đặc biệt yêu thích việc tìm hiểu sâu về System Architecture, API Design và triển khai hệ thống lên Cloud.
+- 📚 Luôn nỗ lực trau dồi kỹ năng mỗi ngày thông qua các dự án cá nhân, đồ án học thuật và môi trường thực tập thực tế.
 
 <br>
 
@@ -55,7 +58,7 @@
 #### 🥈 [Thương mại điện tử đồ gia dụng](https://github.com/Hnit04/E-Commerce)
 **Hệ thống thương mại điện tử theo kiến trúc Microservices.**
 - **Tech Stack:** Spring Boot, Microservices, API Gateway, Docker Compose, MySQL.
-- **Điểm nổi bật:** Kiến trúc phân tán bao gồm 7 service độc lập: Product, User, Cart, Order, Payment, Promotion và Notification. Đóng gói toàn bộ hệ thống bằng Docker Compose giúp triển khai dễ dàng.
+- **Điểm nổi bật:** Kiến trúc phân tự động bao gồm 7 service độc lập: Product, User, Cart, Order, Payment, Promotion và Notification. Đóng gói toàn bộ hệ thống bằng Docker Compose giúp triển khai dễ dàng.
 
 #### 🥉 [Ứng dụng chat Zala](https://github.com/Hnit04/Zala-Chat)
 **Ứng dụng nhắn tin theo thời gian thực.**
@@ -81,7 +84,7 @@
 ### 📈 Thống kê GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hnit04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hnit04&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hnit04&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br>
@@ -98,5 +101,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
