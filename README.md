@@ -18,11 +18,10 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year Software Engineering student at Industrial University of Ho Chi Minh City (IUH).
-- 💻 Oriented toward **Java Backend Development** with scalable Full-stack capabilities.
-- 🚀 Passionate about building real-world products using **Spring Boot, RESTful APIs, Microservices**, and **Docker**.
-- 🧠 Deeply interested in System Architecture, API Design, and Cloud deployment.
-- 📚 Continuously improving skills through academic projects, personal projects, and practical internship opportunities.
+- 💻 **Java Backend Developer** focused on scalable backend systems.
+- 🏗 Experienced with Spring Boot, REST APIs, Microservices, Docker, and AWS.
+- 🔐 Interested in Backend Architecture, Security, and Cloud Deployment.
+- 🚀 Building projects that solve real-world business problems.
 
 <br>
 
@@ -51,17 +50,20 @@
 ### 💻 Featured Projects
 
 #### 🥇 [SmartRental Platform](https://github.com/Hnit04/SmartRental)
-**Blockchain-based rental management platform.**
+**Rental management platform that leverages blockchain and smart contracts to ensure transparent agreements and immutable transaction history between landlords and tenants.**
+- **Architecture Flow:** `Client` ➔ `Spring Boot API` ➔ `Smart Contract` ➔ `Blockchain Network`
 - **Tech Stack:** Spring Boot, Smart Contracts, JWT, AWS, Docker.
-- **Highlights:** Integrated blockchain for secure, immutable transaction tracking and smart contract agreements. Deployed backend services on AWS infrastructure.
+- **Highlights:** Integrated blockchain for secure transaction tracking and deployed backend services on AWS infrastructure.
 
 #### 🥈 [Household Appliance E-Commerce](https://github.com/Hnit04/E-Commerce)
-**Microservices-based e-commerce system.**
+**Microservices-based e-commerce system that handles online retail operations securely and scalably.**
+- **Architecture Flow:** `API Gateway` ➔ `[User, Product, Cart, Order, Payment, Promotion, Notification] Services`
 - **Tech Stack:** Spring Boot, Microservices, API Gateway, Docker Compose, MySQL.
-- **Highlights:** Distributed architecture consisting of 7 independent services: Product, User, Cart, Order, Payment, Promotion, and Notification. Containerized with Docker Compose for seamless deployment.
+- **Highlights:** Distributed architecture consisting of 7 independent services containerized with Docker Compose for seamless deployment.
 
 #### 🥉 [Zala Chat App](https://github.com/Hnit04/Zala-Chat)
 **Real-time messaging application.**
+- **Architecture Features:** `WebSocket Architecture` | `Concurrent Connections` | `Real-time Messaging`
 - **Tech Stack:** Spring Boot, WebSocket, React, MongoDB.
 - **Highlights:** Supported instant communication, real-time notifications, and chat management with low-latency concurrent connections.
 
@@ -72,16 +74,26 @@
 
 <br>
 
+### 🏗 Architecture Interests
+
+- Microservices Architecture
+- Domain-Driven Design (DDD)
+- Event-Driven Systems
+- API Gateway Pattern
+- Cloud Deployment
+
+<br>
+
 ### 🎯 Current Focus
 
 - 🏗 Building Microservices with Spring Boot
-- ☁️ Learning AWS Cloud Services
+- ☁️ Practicing cloud deployment and infrastructure management on AWS
 - ⚙️ Exploring System Design
 - 🐳 Improving Docker & DevOps Skills
 
 <br>
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hnit04&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" width="48%" />
@@ -90,6 +102,10 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnit04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnit04&theme=react-dark&hide_border=true" alt="Activity Graph" width="98%" />
 </div>
 
 <div align="center">
