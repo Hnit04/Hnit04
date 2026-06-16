@@ -34,19 +34,15 @@ I am a final-year Software Engineering student at the Industrial University of H
 *   **Architecture Flow:** `React Native Client` ➔ `Spring Boot WebSockets` ➔ `MongoDB` | `WebRTC` (P2P Media)
 *   **Highlights:** Developed the cross-platform mobile client using **Expo** (featuring a custom UI) and engineered low-latency concurrent messaging and peer-to-peer video calling.
 
-#### 📊 Big Data Processing Pipeline
-**Data ingestion and distributed analytics infrastructure.**
-*   **Highlights:** Built and executed data processing pipelines leveraging the **Hadoop ecosystem** (MapReduce, Spark, Hive) across Linux/HDFS environments.
-
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hnit04&show_icons=true&theme=transparent&hide_border=true&title_color=ED8B00&icon_color=ED8B00&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnit04&layout=compact&theme=transparent&hide_border=true&title_color=ED8B00&text_color=777777" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hnit04&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hnit04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnit04&theme=transparent&hide_border=true&color=ED8B00&line=ED8B00&point=FFFFFF" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hnit04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
