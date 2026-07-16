@@ -14,7 +14,7 @@ I am a final-year Software Engineering student at the Industrial University of H
 
 ### 🛠 Tech Stack & Engineering Skills
 
-*   **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Spring Cloud Gateway, Node.js, Express, TypeScript, RESTful API, JWT.
+*   **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Spring Cloud Gateway, RESTful API, JWT, Node.js, Express, TypeScript.
 *   **Databases & Caching:** PostgreSQL, MongoDB, MariaDB, Redis, PgVector.
 *   **Real-time & Messaging:** Socket.IO, WebSocket (STOMP), RabbitMQ, Apache Kafka.
 *   **Architecture:** Microservices, API Gateway, Circuit Breaker (Resilience4j), Event-Driven.
