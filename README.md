@@ -1,38 +1,45 @@
 # Trần Công Tính
-**Java Backend Developer | Software Engineering @ IUH**
+**Full Stack Developer | Software Engineering @ IUH**
 
-[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:trancongtinh20042004@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tinh-tran-484444408)
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:trancongtinh20042004@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tinh-tran-484444408) [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />](https://hnit04.github.io/portfolio)
 
-I am a final-year Software Engineering student at the Industrial University of Ho Chi Minh City (IUH). I focus on designing scalable backend systems, microservices architecture, and integrating modern technologies like Web3 and GenAI into traditional applications.
+I am a final-year Software Engineering student at the Industrial University of Ho Chi Minh City (IUH). I build full-stack applications with Java/Spring Boot and Node.js/Express, focusing on microservices architecture, real-time systems, and DevOps.
 
 ### 🛠 Tech Stack & Engineering Skills
 
-*   **Backend & Architecture:** Java, Spring Boot, Spring Security, Microservices, API Gateway, DDD, Event-Driven Systems.
-*   **Databases & Big Data:** MySQL, MariaDB, MongoDB | Hadoop MapReduce, Apache Spark, Hive.
-*   **Real-time & AI/Web3:** WebSockets, WebRTC, LangChain4j (Gemini 2.5 Flash API), Polygon Smart Contracts.
-*   **Infrastructure & QA:** Docker, Docker Compose, AWS, Linux (SSH) | Unit Testing, Boundary Value Analysis (VP, IP, VB, IB).
-*   **Frontend:** Expo / React Native, React.
+*   **Backend:** Java, Spring Boot, Spring Security, Spring Cloud Gateway, Node.js, Express, TypeScript, REST API, JWT.
+*   **Databases & Caching:** PostgreSQL, MongoDB, MariaDB, Redis, PgVector.
+*   **Real-time & Messaging:** Socket.IO, WebSocket (STOMP), RabbitMQ, Apache Kafka.
+*   **Architecture:** Microservices, API Gateway, Circuit Breaker (Resilience4j), Event-Driven.
+*   **DevOps:** Docker, Docker Compose, Nginx, Jenkins CI/CD, AWS S3, DigitalOcean, Render, Vercel.
+*   **AI & Blockchain:** LangChain4j, Gemini API, Groq API, ONNX Runtime, FPT AI OCR, Web3j, Solidity, Hardhat.
+*   **Frontend:** React, React Native, Expo, TypeScript, TailwindCSS.
 
 ---
 
 ### 💻 Featured Engineering Projects
 
-#### 🏢 [SmartRental Platform](https://github.com/Hnit04/SmartRental)
-**A distributed residential rental management ecosystem integrating GenAI and Blockchain.**
-*   **Architecture Flow:** `Client` ➔ `Spring Boot API` ➔ `MariaDB` | `Smart Contract` ➔ `Polygon Testnet`
-*   **AI Integration:** Implemented an in-memory vector store and utilized **LangChain4j** with the **Gemini 2.5 Flash API** for intelligent system capabilities.
-*   **Blockchain:** Deployed smart contracts on the **Polygon Testnet** (Amoy) to ensure immutable transaction history and secure lease agreements.
+#### 🏢 [SmartRental Platform](https://github.com/Hnit04/KLTN_SmartRental)
+**AI & Blockchain Rental Management Ecosystem — Capstone Thesis**
+*   **Architecture:** `React (TypeScript)` ➔ `Spring Boot 3 API` ➔ `PostgreSQL + PgVector` | `Web3j` ➔ `Ethereum Sepolia`
+*   **Backend:** 6 Modules, 20 Controllers, 33 Services, 160+ RESTful APIs for user/property/contract/interaction/subscription/AI management.
+*   **AI:** Full RAG system (LangChain4j + Gemini API + PgVector), ONNX Runtime content moderation, and AI recommendation engine (Caffeine caching).
+*   **Blockchain:** Smart contract deployed on Ethereum Sepolia via Web3j (Hardhat) with EIP-155 transaction signing and outbox pattern.
+*   **Integrations:** Cloudinary CDN, FPT AI OCR (eKYC), Jsoup (property crawling), WebSocket (STOMP), Google OAuth2.
 
-#### 🛒 [Household Appliance E-Commerce](https://github.com/Hnit04/E-Commerce)
-**Microservices-based e-commerce platform built for high scalability.**
-*   **Architecture Flow:** `API Gateway` ➔ `[User, Product, Cart, Order, Payment, Promotion, Notification] Services`
-*   **Tech Stack:** Spring Boot, REST APIs, MySQL, Docker Compose.
-*   **Highlights:** Architected 7 independent services handling distinct domains, containerized and orchestrated via Docker for seamless local deployment.
+#### 🛒 [Household Appliance E-Commerce](https://github.com/Hnit04/WebsiteBanDoGiaDung) — [Live Demo](https://tht-giadungthongminh.vercel.app/)
+**Microservices E-Commerce Platform with 9 Services**
+*   **Architecture:** `Spring Cloud Gateway` + `Eureka` ➔ `[User, Product, Cart, Order, Payment, Promotion, Notification] Services`
+*   **Tech:** Spring Boot 3, MongoDB (isolated per service), OpenFeign (sync) & RabbitMQ (async), Resilience4j, WebSocket STOMP.
+*   **DevOps:** Docker Compose (11 containers), deployed on Render (backend) + Vercel (frontend).
 
-#### 💬 [Zala Chat App](https://github.com/Hnit04/Zala-Chat)
-**High-performance real-time messaging mobile application.**
-*   **Architecture Flow:** `React Native Client` ➔ `Spring Boot WebSockets` ➔ `MongoDB` | `WebRTC` (P2P Media)
-*   **Highlights:** Developed the cross-platform mobile client using **Expo** (featuring a custom UI) and engineered low-latency concurrent messaging and peer-to-peer video calling.
+#### 💬 [Zala — Real-time Messaging Platform](https://github.com/IUH-CNM-TEAM08)
+**Full-stack Messaging App with Node.js Backend & React Native Mobile**
+*   **Backend:** `Node.js 20` + `Express` + `TypeScript` — 10 controllers, 22 service modules, 729-line Socket.IO handler.
+*   **Infrastructure:** `MongoDB 7` + `Redis 7` (caching/presence) + `Apache Kafka 3.7` (event streaming) + `Nginx` + `Jenkins CI/CD`.
+*   **Real-time:** Socket.IO (chat, typing, seen/delivered, voting, live stream, donation), WebRTC signaling + LiveKit (video calls).
+*   **AI:** Gemini API + Groq API (Llama 3.1 8B) dual AI chatbot system.
+*   **Mobile:** React Native + Expo 54 with AWS S3 file storage. Deployed on DigitalOcean.
 
 ---
 
