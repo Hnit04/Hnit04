@@ -1,13 +1,20 @@
 # Trần Công Tính
-**Full Stack Developer | Software Engineering @ IUH**
+**Java Backend Developer | Software Engineering @ IUH**
 
 [<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:trancongtinh20042004@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tinh-tran-484444408) [<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />](https://hnit04.github.io/portfolio)
 
-I am a final-year Software Engineering student at the Industrial University of Ho Chi Minh City (IUH). I build full-stack applications with a strong foundation in Java backend development using Spring Boot, and additional experience in Node.js. My focus is on modern architectures, real-time systems, and DevOps.
+I am a final-year Software Engineering student at the Industrial University of Ho Chi Minh City (IUH). I build scalable applications with a strong foundation in Java backend development using Spring Boot, and additional experience in Node.js. My focus is on modern architectures, real-time systems, and DevOps.
+
+### 🌟 Selected Highlights
+
+*   **160+ RESTful APIs** developed across multiple business domains
+*   **17+ containerized services** deployed using Docker & Docker Compose
+*   **3 production-scale projects** utilizing Java/Spring Boot and Node.js
+*   **Team Leader** for Capstone Thesis and E-Commerce System
 
 ### 🛠 Tech Stack & Engineering Skills
 
-*   **Backend:** Java, Spring Boot, Spring Security, Spring Cloud Gateway, Node.js, Express, TypeScript, REST API, JWT.
+*   **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Spring Cloud Gateway, Node.js, Express, TypeScript, RESTful API, JWT.
 *   **Databases & Caching:** PostgreSQL, MongoDB, MariaDB, Redis, PgVector.
 *   **Real-time & Messaging:** Socket.IO, WebSocket (STOMP), RabbitMQ, Apache Kafka.
 *   **Architecture:** Microservices, API Gateway, Circuit Breaker (Resilience4j), Event-Driven.
@@ -22,8 +29,8 @@ I am a final-year Software Engineering student at the Industrial University of H
 #### 🏢 [SmartRental Platform](https://github.com/Hnit04/KLTN_SmartRental)
 **AI & Blockchain Rental Management Ecosystem — Capstone Thesis**
 *   **Architecture:** `React (TypeScript)` ➔ `Spring Boot 3 API` ➔ `PostgreSQL + PgVector` | `Web3j` ➔ `Ethereum Sepolia`
-*   **Backend:** Designed modular architecture of 6 business modules. Implemented 20 Controllers, 33 Services, 160+ RESTful APIs for user/property/contract/interaction/subscription/AI management.
-*   **AI:** Built full RAG system (LangChain4j + Gemini API + PgVector), ONNX Runtime content moderation, and AI recommendation engine (Caffeine caching).
+*   **Backend:** Designed modular backend architecture consisting of 6 business modules to support scalable development and maintainability. Implemented 20 Controllers, 33 Services, 160+ RESTful APIs for user/property/contract/interaction/subscription/AI management.
+*   **AI:** Built a Retrieval-Augmented Generation (RAG) pipeline (LangChain4j + Gemini API + PgVector), ONNX Runtime content moderation, and AI recommendation engine (Caffeine caching).
 *   **Blockchain:** Smart contract deployed on Ethereum Sepolia via Web3j (Hardhat) with EIP-155 transaction signing and outbox pattern.
 *   **Integrations:** Cloudinary CDN, FPT AI OCR (eKYC), Jsoup (property crawling), WebSocket (STOMP), Google OAuth2.
 
